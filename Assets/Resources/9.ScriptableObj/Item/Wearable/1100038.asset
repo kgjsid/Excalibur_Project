@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54478adadd8c53f40905608b4f84594e, type: 3}
+  m_Name: 1100038
+  m_EditorClassIdentifier: 
+  id: 1100038
+  itemName: 161
+  type: 1
+  rank: 0
+  itemImage: {fileID: 21300000, guid: 54cd7822a4ab3bf4d88877e8c9d1d84b, type: 3}
+  width: 1
+  height: 2
+  sellPrice: 50
+  detailTextId: 1520078
+  wearablesType: 2
+  buyPrice: 250
+  stats: 0100000000000000
+  statValues:
+  - 21
+  - 10
+  equipSoundId: 1650000
